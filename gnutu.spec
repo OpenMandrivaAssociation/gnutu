@@ -10,6 +10,7 @@ URL:		http://www.gnutu.devnull.pl/
 BuildRequires:	gtk-sharp2
 BuildRequires:	glade-sharp2
 BuildRequires:	libmono-devel
+BuildRoot:	%{_tmppath}/%{name}-%{version}-root
 
 %description
 GNUTU (Student's Schedule) is designed for students 
