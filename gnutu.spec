@@ -1,7 +1,7 @@
 Summary:	Student's Schedule
 Name:		gnutu
 Version:	2.5
-Release:	%mkrel 2
+Release:	%mkrel 4
 License:	GPL
 Group:		Education
 Source0:	http://gnutu.devnull.pl/download.php?id=sources/gnutu-%{version}.tar.gz
