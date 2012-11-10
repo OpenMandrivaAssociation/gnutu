@@ -1,0 +1,9 @@
+--- gnutu-2.5/gnutu.desktop.in	2005-10-19 14:11:00.000000000 +0000
++++ gnutu.desktop.in--	2007-01-06 01:14:09.000000000 +0000
+@@ -10,5 +10,5 @@
+ Icon=@prefix@/share/pixmaps/gnutu.png
+ Terminal=false
+ Type=Application
+-Categories=GNOME;Application;Utility;
++Categories=X-MandrivaLinux-MoreApplications-Education-Other;GNOME;Application;Utility;
+ GenericName[es_ES]=
