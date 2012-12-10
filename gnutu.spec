@@ -65,3 +65,34 @@ your average; it can also serve as a diary and many, many more...
 %{_datadir}/pixmaps/gnutu.png
     
 
+
+
+%changelog
+* Fri Sep 04 2009 Thierry Vignaud <tv@mandriva.org> 2.5-5mdv2010.0
++ Revision: 429287
+- rebuild
+
+* Thu Jul 24 2008 Thierry Vignaud <tv@mandriva.org> 2.5-4mdv2009.0
++ Revision: 246510
+- rebuild
+
+  + Pixel <pixel@mandriva.com>
+    - rpm filetriggers deprecates update_menus/update_scrollkeeper/update_mime_database/update_icon_cache/update_desktop_database/post_install_gconf_schemas
+
+* Fri Dec 21 2007 Olivier Blin <oblin@mandriva.com> 2mdv2008.1-current
++ Revision: 136456
+- restore BuildRoot
+
+  + Thierry Vignaud <tv@mandriva.org>
+    - kill re-definition of %%buildroot on Pixel's request
+
+
+* Thu Jan 18 2007 Tomasz Pawel Gajc <tpg@mandriva.org> 2.5-2mdv2007.0
++ Revision: 110442
+- correct url
+- spec file clean
+
+* Sat Jan 06 2007 Tomasz Pawel Gajc <tpg@mandriva.org> 2.5-1mdv2007.1
++ Revision: 104707
+- Import gnutu
+
