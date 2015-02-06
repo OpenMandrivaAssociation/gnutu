@@ -4,7 +4,7 @@
 Summary:	Student's Schedule
 Name:		gnutu
 Version:	2.5
-Release:	6
+Release:	7
 License:	GPLv2+
 Group:		Education
 Url:		http://www.gnutu.devnull.pl/
