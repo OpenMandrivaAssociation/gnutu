@@ -7,7 +7,7 @@ Version:	2.5
 Release:	7
 License:	GPLv2+
 Group:		Education
-Url:		http://www.gnutu.devnull.pl/
+Url:		https://www.gnutu.devnull.pl/
 Source0:	http://gnutu.devnull.pl/download.php?id=sources/gnutu-%{version}.tar.gz
 Patch0:		%{name}-desktop.patch
 BuildRequires:	gtk-sharp2
