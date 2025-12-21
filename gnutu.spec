@@ -10,6 +10,11 @@ Group:		Education
 Url:		https://www.gnutu.devnull.pl/
 Source0:	http://gnutu.devnull.pl/download.php?id=sources/gnutu-%{version}.tar.gz
 Patch0:		%{name}-desktop.patch
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires:	gtk-sharp2
 BuildRequires:	glade-sharp2
 BuildRequires:	pkgconfig(mono)
